@@ -6,7 +6,7 @@ A modern and futuristic **performance footwear website** designed for athletes a
 
 ## 🌐 Live Demo
 
-👉 **[View STRIDE Live Demo](https://noor-ul-huda34.github.io/stride/)**
+👉 **[View STRIDE Live Demo]([https://noor-ul-huda34.github.io/stride/](https://noor-ul-huda34.github.io/Stride-file/))**
 
 Experience the STRIDE performance footwear website live in your browser.
 
